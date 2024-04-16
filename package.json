@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/GreenHarvest-project-17/",
+    "build": "vite build --base=/html_css_106_OleksandrNet/",
     "preview": "vite preview"
   },
   "devDependencies": {
